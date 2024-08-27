@@ -1,7 +1,9 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Timely delivery is crucial for client satisfaction, maintaining market relevance, controlling costs, and protecting the project's reputation. Project managers can ensure deadlines are met by setting realistic timelines, prioritizing tasks, regularly monitoring progress, maintaining clear communication, and effectively managing risks.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control ensures the project stays within budget, optimizes resource use, and maintains financial predictability, which leads to project success. Strategies to prevent budget overruns include detailed budget planning, regular cost monitoring, managing scope, implementing change control processes, and efficient resource allocation.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
